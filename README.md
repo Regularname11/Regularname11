@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Regularname11
-- 👀 I’m interested in coding new things!
-- 🌱 I’m currently learning about life and existence 
+- 👋 Hi, I’m @Regularname11 (AKA: Taha-Yassine ENNABILI)
+- 👀 I’m interested in coding and learning new things! <3
+- 🌱 You only live once, but if you do it right, once is enough.
 - 📫 How to reach me via my email: tahaennabili@gmail.com
 
 <!---
