@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Regularname11?tab=repositories)
 
-- 📫 How to reach me via my email: **tahaennabili@gmail.com**
+- 📫 How to reach me via my [Email](tahaennabili@gmail.com)
 
 - Fun fact: **I love Cats😸, Video games 🕹️ and Mechanical keyboards ⌨️..**
 
