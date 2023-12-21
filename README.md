@@ -13,7 +13,7 @@
 
 <h3 align="left">Find more about me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/taha-yassine ennabili" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="taha-yassine ennabili" height="30" width="90" /></a>
+<a href="https://www.linkedin.com/in/taha-yassine-ennabili/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="taha-yassine ennabili" height="30" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
