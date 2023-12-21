@@ -1,6 +1,6 @@
 <h1 align="center"> ⴰⵣⵓⵍ/Hi 👋, I'm @Regularname11 (AKA: Taha-Yassine ENNABILI) </h1>
 <h3 align="center">I’m interested in coding and learning new things! <3 👀</h3>
-<img align="right" alt="Coding" width="600" src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regularname11&label=Profile%20views&color=0e75b6&style=flat" alt="regularname11" /> </p>
