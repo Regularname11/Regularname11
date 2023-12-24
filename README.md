@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regularname11&label=Profile%20views&color=0e75b6&style=flat" alt="regularname11" /> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Regularname11?tab=repositories)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Regularname11?tab=repositories)**
 
-- 📫 How to reach me via my email: tahaennabili@gmail.com
+- 📫 How to reach me via my email: **tahaennabili@gmail.com**
 
-- Fun fact: **I love Cats😸, Video games 🕹️ and Mechanical keyboards ⌨️..**
+- Fun facts: **I love Cats😸, Video games 🕹️, Coding 🧑🏼‍💻 and Mechanical keyboards ⌨️..**
 
 <h3 align="left">Find more about me:</h3>
 <p align="left">
