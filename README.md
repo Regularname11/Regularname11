@@ -1,4 +1,4 @@
-<h1 align="center"> ⴰⵣⵓⵍ/Hi 👋, I'm @Regularname11 (AKA: Taha ENN) </h1>
+<h1 align="center"> ⴰⵣⵓⵍ/Hi 👋, I'm @Regularname11 (AKA: Taha Enn) </h1>
 <h3 align="center">I’m interested in coding and learning new things! <3 👀</h3>
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif">
 
