@@ -1,5 +1,5 @@
 <h1 align="center"> ⴰⵣⵓⵍ/Hi 👋 </h1>
-<h3 align="center">⚡ I’m interested in coding and learning new things! <3 👀</h3>
+<h3 align="center">⚡ I’m interested in coding and learning new things! <3 ⚡</h3>
 <img align="right" width="500" src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif" alt="typing GIF">
 
 
