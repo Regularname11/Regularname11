@@ -1,11 +1,11 @@
 <h1 align="center"> ⴰⵣⵓⵍ/Hi 👋 </h1>
 <h3 align="center">I’m interested in coding and learning new things! <3 👀</h3>
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif">
+<img align="right" width="500" src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif" alt="typing GIF">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regularname11&label=Profile%20views&color=0e75b6&style=flat" alt="regularname11" /> </p>
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Regularname11?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My GitHub repos](https://github.com/Regularname11?tab=repositories)**
 
 - Fun facts 🍔🥤: **I love Cats😸, Video games 🕹️, Coding 🧑🏼‍💻 and Mechanical keyboards ⌨️..**
 
