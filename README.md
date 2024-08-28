@@ -12,10 +12,9 @@
 </p>
 
 <h2 align="left" >Languages and Tools:</h2>
-
  <style>
 .markdown-body h2 {
-    border-bottom: 0px;
+    border-bottom: 0px solid;
 }
 </style>
 
