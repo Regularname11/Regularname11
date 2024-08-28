@@ -11,10 +11,13 @@
 
 </p>
 
-<h2 style=".markdown-body h2 {
-    padding-bottom: .3em;
-    font-size: 1.5em;
-    border-bottom: 0px}" align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
+<style>
+.markdown-body h2 {
+    border-bottom: 0px solid;
+}
+</style>
+
 
 
 <h3 align="left">Languages</h3>
