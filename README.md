@@ -1,4 +1,4 @@
-<h1 align="center"> ⴰⵣⵓⵍ/Hi 👋 </h1>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9c57e7f2-75bf-4c1f-a5b1-dd6e2bc9ee85" />
 <h3 align="center">⚡ I’m interested in coding and learning new things! <3 ⚡</h3>
 <img align="right" width="500" src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif" alt="typing GIF">
 
