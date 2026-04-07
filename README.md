@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at **[My GitHub repos](https://github.com/Regularname11?tab=repositories)**
 > PS: some of my repos are temporary private, until I reach the desired results
 
-- Fun facts 🍔🥤: **I love Cats😸, Video games 🕹️, Coding 🧑🏼‍💻 and Mechanical keyboards ⌨️..**
+- **Fun facts 🍔🥤**: I love Cats😸, Video games 🕹️, Coding 🧑🏼‍💻 and Mechanical keyboards ⌨️..
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
