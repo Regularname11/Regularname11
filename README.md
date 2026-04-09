@@ -9,7 +9,7 @@
 
 - **Fun facts 🍔🥤**: I love Cats😸, Video games 🕹️, Coding 🧑🏼‍💻 and Mechanical keyboards ⌨️..
 
-> **PS**: some of my repos are temporary private, until I reach the desired results
+> **PS**: some of my repos are temporary private, until I reach the desired results/milestones
 
 </p>
 
