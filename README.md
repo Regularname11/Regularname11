@@ -17,26 +17,29 @@
 
 <h3 align="left">Languages, stack</h3>
 
-- Node,js
-- Javascript/Typescript
-- React
-- Next.js
-- Ant Design
-- Styled components
-- Shadcn
-- Tailwing
-- Python/FastApi
-- GraphQl
-- Prisma ORM
+<div align="left">
+Node,js
+| Javascript/Typescript
+| React
+| Next.js
+| Ant Design
+| Styled components
+| Shadcn
+| Tailwing
+| Python/FastApi
+| GraphQl
+| Prisma ORM
+<div/>
 
 <h3 align="left">Tools</h3>
-
-- Vscode
-- Linux
-- StoryBook
-- PostgreSQL
-- Git
-- GitLab/GitHub
+<div align="left">
+Vscode
+| Linux
+| StoryBook
+| PostgreSQL
+| Git
+| GitLab/GitHub
+</div>
 <hr>
 
  _Made this README with ❤️🧪_
