@@ -22,9 +22,12 @@
 - React
 - Next.js
 - Ant Design
+- Styled components
 - Shadcn
 - Tailwing
 - Python/FastApi
+- GraphQl
+- Prisma ORM
 
 <h3 align="left">Tools</h3>
 
