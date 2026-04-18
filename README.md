@@ -18,7 +18,7 @@
 <h3 align="left">Languages, stack</h3>
 
 <div align="left">
-Node,js
+Node.js
 | Javascript/Typescript
 | React
 | Next.js
