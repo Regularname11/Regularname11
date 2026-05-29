@@ -29,6 +29,7 @@ Node.js
 | Python/FastApi
 | GraphQl
 | Prisma ORM
+| Drizzle
 <div/>
 
 <h3 align="left">Tools</h3>
