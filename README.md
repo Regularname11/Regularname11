@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" >
       <h2> Hey there, I'm regularname11!</h2>
       <h3> Passionate Developer | Lifelong Learner </h3>
       <p>Passionate about building modern web applications, learning new technologies,
@@ -55,7 +55,6 @@
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
   <p>
     <i>— Made this readme with ❤️ —</i>
