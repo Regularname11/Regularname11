@@ -5,7 +5,7 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=regularname11&label=Profile%20views&color=0e75b6&style=flat" alt="regularname11" /> </div>
 
-- 👨‍💻 All of my projects are available at **[My GitHub repos](https://github.com/Regularname11?tab=repositories)**
+- 👨‍💻
 
 - **Fun facts 🍔🥤**: I love Cats😸, Video games 🕹️, Coding 🧑🏼‍💻 and Mechanical keyboards ⌨️..
 
