@@ -44,7 +44,7 @@
 `PostgreSQL` |&nbsp; `Neon` |&nbsp; `Prisma` |&nbsp; `Drizzle ORM` 
 
 ### Tools & Environment
-`Git` |&nbsp; `GitHub` |&nbsp; `GitLab` |&nbsp; `Linux` |&nbsp; `VS Code` |&nbsp; `Vim` |&nbsp; `Requestly`
+`Git` |&nbsp; `GitHub` |&nbsp; `GitLab` |&nbsp; `Linux` |&nbsp; `VS Code` |&nbsp; `Vim` |&nbsp; `Requestly` |&nbsp; `Docker`
 
 ---
 
