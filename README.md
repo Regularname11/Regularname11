@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-`JavaScript` |&nbsp; `TypeScript` |&nbsp; `Node.js` |&nbsp; `React` |&nbsp; `Next.js` |&nbsp; `Tanstack` |&nbsp; `Python` |&nbsp; `FastAPI` |&nbsp; `GraphQL`
+`JavaScript` |&nbsp; `TypeScript` |&nbsp; `Node.js` |&nbsp; `React` |&nbsp; `Next.js` |&nbsp; `Tanstack Query` |&nbsp; `Python` |&nbsp; `FastAPI` |&nbsp; `GraphQL`
 
 ### Frontend & Styling
 `Ant Design` |&nbsp; `Shadcn/ui` |&nbsp; `Tailwind CSS` |&nbsp; `Styled Components`
@@ -46,7 +46,7 @@
 ### Tools & Environment
 `Git` |&nbsp; `GitHub` |&nbsp; `GitLab` |&nbsp; `Linux` |&nbsp; `VS Code` |&nbsp; `Vim` |&nbsp; `Requestly` |&nbsp; `Storybook` |&nbsp; `Docker`
 
-> "**Note:** My stack reflects a mix of robust enterprise tools used in my day job (Prisma, Ant Design...) and modern, serverless tools I love using for my personal and side projects (Drizzle, Neon, Shadcn)."
+> "**Note:** My stack reflects a mix of robust enterprise tools used in my day job (Prisma, Ant Design...) and modern, serverless tools I love using for my personal and side projects (Drizzle, Neon, Shadcn...)."
 
 ---
 
