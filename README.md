@@ -35,16 +35,16 @@
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-`JavaScript` |&nbsp; `TypeScript` |&nbsp; `Node.js` |&nbsp; `React` |&nbsp; `Next.js` |&nbsp; `Python` |&nbsp; `FastAPI` |&nbsp; `GraphQL`
+`JavaScript` |&nbsp; `TypeScript` |&nbsp; `Node.js` |&nbsp; `React` |&nbsp; `Next.js` |&nbsp; `Tanstack` |&nbsp; `Python` |&nbsp; `FastAPI` |&nbsp; `GraphQL`
 
 ### Frontend & Styling
-`Ant Design` |&nbsp; `Shadcn/ui` |&nbsp; `Tailwind CSS` |&nbsp; `Styled Components` |&nbsp; `Storybook`
+`Ant Design` |&nbsp; `Shadcn/ui` |&nbsp; `Tailwind CSS` |&nbsp; `Styled Components`
 
 ### Database & ORM
 `PostgreSQL` |&nbsp; `Neon` |&nbsp; `Prisma` |&nbsp; `Drizzle ORM` 
 
 ### Tools & Environment
-`Git` |&nbsp; `GitHub` |&nbsp; `GitLab` |&nbsp; `Linux` |&nbsp; `VS Code` |&nbsp; `Vim` |&nbsp; `Requestly` |&nbsp; `Docker`
+`Git` |&nbsp; `GitHub` |&nbsp; `GitLab` |&nbsp; `Linux` |&nbsp; `VS Code` |&nbsp; `Vim` |&nbsp; `Requestly` |&nbsp; `Storybook` |&nbsp; `Docker`
 
 ---
 
